@@ -4,8 +4,8 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Local data cache (downloaded automatically)
-data/
+# Local data cache (pomiń ignorowanie, aby zdeployować pliki na GitHub i uniknąć powolnego pobierania z sieci)
+# data/
 
 # Environments
 .venv/
