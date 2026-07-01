@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local data cache (downloaded automatically)
+data/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+pythonenv/
