@@ -4,7 +4,7 @@ Interaktywna aplikacja analityczna (dashboard) napisana w języku Python z użyc
 
 ##  Działająca wersja (Deployment)
 Aplikacja została wdrożona na platformie Streamlit Community Cloud i jest dostępna pod poniższym adresem:
- **[https://premier-league-dashboard.streamlit.app](https://premier-league-dashboard.streamlit.app)**
+ **[https://premierleaguedash.streamlit.app](https://premierleaguedash.streamlit.app)**
 
 ---
 
